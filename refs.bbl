@@ -1,0 +1,2416 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global}
+  \entry{Bao2015}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BW}{%
+         family={Bao},
+         familyi={B\bibinitperiod},
+         given={Weidong},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=KKK}{%
+         family={Kojima},
+         familyi={K\bibinitperiod},
+         given={Kenji\bibnamedelima K.},
+         giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=KO}{%
+         family={Kohany},
+         familyi={K\bibinitperiod},
+         given={Oleksiy},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {BioMed Central Ltd.}%
+    }
+    \keyw{Database,Repbase Reports,Repbase Update,RepbaseSubmitter,Transposable
+  element}
+    \strng{namehash}{BWKKKKO1}
+    \strng{fullhash}{BWKKKKO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    Repbase Update (RU) is a database of representative repeat sequences in
+  eukaryotic genomes. Since its first development as a database of human
+  repetitive sequences in 1992, RU has been serving as a well-curated reference
+  database fundamental for almost all eukaryotic genome sequence analyses.
+  Here, we introduce recent updates of RU, focusing on technical issues
+  concerning the submission and updating of Repbase entries and will give short
+  examples of using RU data. RU sincerely invites a broader submission of
+  repeat sequences from the research community.%
+    }
+    \verb{doi}
+    \verb 10.1186/s13100-015-0041-9
+    \endverb
+    \field{issn}{17598753}
+    \field{issue}{11}
+    \field{title}{Repbase Update, a database of repetitive elements in
+  eukaryotic genomes}
+    \field{volume}{6}
+    \field{journaltitle}{Mobile DNA}
+    \field{month}{06}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Bruna2024}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BT}{%
+         family={Brůna},
+         familyi={B\bibinitperiod},
+         given={Tomáš},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=LA}{%
+         family={Lomsadze},
+         familyi={L\bibinitperiod},
+         given={Alexandre},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Borodovsky},
+         familyi={B\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BTLABM1}
+    \strng{fullhash}{BTLABM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    Large-scale genomic initiatives, such as the Earth BioGenome Project,
+  require efficient methods for eukaryotic genome annotation. Here we present
+  an automatic gene finder, GeneMark-ETP, integrating genomic-, transcriptomic-
+  and protein-derived evidence that has been developed with a focus on large
+  plant and animal genomes. GeneMark-ETP first identifies genomic loci where
+  extrinsic data is sufficient for making gene predictions with ‘high
+  confidence’. The genes situated in the genomic space between the high
+  confidence genes are predicted in the next stage. The set of high confidence
+  genes serves as an initial training set for the statistical model. Further
+  on, the model parameters are iteratively updated in the rounds of gene
+  prediction and parameter re-estimation. Upon reaching convergence,
+  GeneMark-ETP makes the final predictions and delivers the whole complement of
+  predicted genes. GeneMark-ETP outperformed gene finders using a single type
+  of extrinsic evidence. Comparisons with gene finders utilizing both
+  transcript- and protein-derived extrinsic evidence, MAKER2, and TSEBRA,
+  demonstrated that GeneMark-ETP delivered state-of-the-art gene prediction
+  accuracy with the margin of outperforming existing approaches increasing in
+  its applications to larger and more complex eukaryotic genomes.%
+    }
+    \verb{doi}
+    \verb 10.1101/2023.01.13.524024
+    \endverb
+    \field{title}{A new gene finding tool GeneMark-ETP significantly improves
+  the accuracy of automatic annotation of large eukaryotic genomes}
+    \field{journaltitle}{bioRxiv}
+    \field{year}{2024}
+  \endentry
+
+  \entry{Bruna2021}{article}{}
+    \name{author}{5}{}{%
+      {{hash=BT}{%
+         family={Brůna},
+         familyi={B\bibinitperiod},
+         given={Tomáš},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HKJ}{%
+         family={Hoff},
+         familyi={H\bibinitperiod},
+         given={Katharina\bibnamedelima J.},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=LA}{%
+         family={Lomsadze},
+         familyi={L\bibinitperiod},
+         given={Alexandre},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Stanke},
+         familyi={S\bibinitperiod},
+         given={Mario},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Borodovsky},
+         familyi={B\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{BT+1}
+    \strng{fullhash}{BTHKJLASMBM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    The task of eukaryotic genome annotation remains challenging. Only a few
+  genomes could serve as standards of annotation achieved through a tremendous
+  investment of human curation efforts. Still, the correctness of all
+  alternative isoforms, even in the best-Annotated genomes, could be a good
+  subject for further investigation. The new BRAKER2 pipeline generates and
+  integrates external protein support into the iterative process of training
+  and gene prediction by GeneMark-EP+ and AUGUSTUS. BRAKER2 continues the line
+  started by BRAKER1 where self-Training GeneMark-ET and AUGUSTUS made gene
+  predictions supported by transcriptomic data. Among the challenges addressed
+  by the new pipeline was a generation of reliable hints to protein-coding exon
+  boundaries from likely homologous but evolutionarily distant proteins. In
+  comparison with other pipelines for eukaryotic genome annotation, BRAKER2 is
+  fully automatic. It is favorably compared under equal conditions with other
+  pipelines, e.g. MAKER2, in terms of accuracy and performance. Development of
+  BRAKER2 should facilitate solving the task of harmonization of annotation of
+  protein-coding genes in genomes of different eukaryotic species. However, we
+  fully understand that several more innovations are needed in transcriptomic
+  and proteomic technologies as well as in algorithmic development to reach the
+  goal of highly accurate annotation of eukaryotic genomes.%
+    }
+    \verb{doi}
+    \verb 10.1093/nargab/lqaa108
+    \endverb
+    \field{issn}{26319268}
+    \field{issue}{1}
+    \field{pages}{1\bibrangedash 11}
+    \field{title}{BRAKER2: Automatic eukaryotic genome annotation with
+  GeneMark-EP+ and AUGUSTUS supported by a protein database}
+    \field{volume}{3}
+    \field{journaltitle}{NAR Genomics and Bioinformatics}
+    \field{month}{03}
+    \field{year}{2021}
+  \endentry
+
+  \entry{Buchfink2015}{misc}{}
+    \name{author}{3}{}{%
+      {{hash=BB}{%
+         family={Buchfink},
+         familyi={B\bibinitperiod},
+         given={Benjamin},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=XC}{%
+         family={Xie},
+         familyi={X\bibinitperiod},
+         given={Chao},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=HDH}{%
+         family={Huson},
+         familyi={H\bibinitperiod},
+         given={Daniel\bibnamedelima H.},
+         giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{BBXCHDH1}
+    \strng{fullhash}{BBXCHDH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    The alignment of sequencing reads against a protein reference database is a
+  major computational bottleneck in metagenomics and data-intensive
+  evolutionary projects. Although recent tools offer improved performance over
+  the gold standard BLASTX, they exhibit only a modest speedup or low
+  sensitivity. We introduce DIAMOND, an open-source algorithm based on double
+  indexing that is 20,000 times faster than BLASTX on short reads and has a
+  similar degree of sensitivity.%
+    }
+    \verb{doi}
+    \verb 10.1038/nmeth.3176
+    \endverb
+    \field{issn}{15487105}
+    \field{pages}{59\bibrangedash 60}
+    \field{title}{Fast and sensitive protein alignment using DIAMOND}
+    \field{volume}{12}
+    \field{journaltitle}{Nature Methods}
+    \field{month}{01}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Cheng2021}{article}{}
+    \name{author}{5}{}{%
+      {{hash=CH}{%
+         family={Cheng},
+         familyi={C\bibinitperiod},
+         given={Haoyu},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=CGT}{%
+         family={Concepcion},
+         familyi={C\bibinitperiod},
+         given={Gregory\bibnamedelima T.},
+         giveni={G\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=FX}{%
+         family={Feng},
+         familyi={F\bibinitperiod},
+         given={Xiaowen},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=ZH}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Haowen},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=LH}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Heng},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Research}%
+    }
+    \strng{namehash}{CH+1}
+    \strng{fullhash}{CHCGTFXZHLH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    Haplotype-resolved de novo assembly is the ultimate solution to the study
+  of sequence variations in a genome. However, existing algorithms either
+  collapse heterozygous alleles into one consensus copy or fail to cleanly
+  separate the haplotypes to produce high-quality phased assemblies. Here we
+  describe hifiasm, a de novo assembler that takes advantage of long
+  high-fidelity sequence reads to faithfully represent the haplotype
+  information in a phased assembly graph. Unlike other graph-based assemblers
+  that only aim to maintain the contiguity of one haplotype, hifiasm strives to
+  preserve the contiguity of all haplotypes. This feature enables the
+  development of a graph trio binning algorithm that greatly advances over
+  standard trio binning. On three human and five nonhuman datasets, including
+  California redwood with a ~30-Gb hexaploid genome, we show that hifiasm
+  frequently delivers better assemblies than existing tools and consistently
+  outperforms others on haplotype-resolved assembly.%
+    }
+    \verb{doi}
+    \verb 10.1038/s41592-020-01056-5
+    \endverb
+    \field{issn}{15487105}
+    \field{issue}{2}
+    \field{pages}{170\bibrangedash 175}
+    \field{title}{Haplotype-resolved de novo assembly using phased assembly
+  graphs with hifiasm}
+    \field{volume}{18}
+    \field{journaltitle}{Nature Methods}
+    \field{month}{02}
+    \field{year}{2021}
+  \endentry
+
+  \entry{Cheng2022}{article}{}
+    \name{author}{7}{}{%
+      {{hash=CH}{%
+         family={Cheng},
+         familyi={C\bibinitperiod},
+         given={Haoyu},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=JED}{%
+         family={Jarvis},
+         familyi={J\bibinitperiod},
+         given={Erich\bibnamedelima D.},
+         giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=FO}{%
+         family={Fedrigo},
+         familyi={F\bibinitperiod},
+         given={Olivier},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=KKP}{%
+         family={Koepfli},
+         familyi={K\bibinitperiod},
+         given={Klaus\bibnamedelima Peter},
+         giveni={K\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=UL}{%
+         family={Urban},
+         familyi={U\bibinitperiod},
+         given={Lara},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=GNJ}{%
+         family={Gemmell},
+         familyi={G\bibinitperiod},
+         given={Neil\bibnamedelima J.},
+         giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=LH}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Heng},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Research}%
+    }
+    \strng{namehash}{CH+1}
+    \strng{fullhash}{CHJEDFOKKPULGNJLH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    Routine haplotype-resolved genome assembly from single samples remains an
+  unresolved problem. Here we describe an algorithm that combines PacBio HiFi
+  reads and Hi-C chromatin interaction data to produce a haplotype-resolved
+  assembly without the sequencing of parents. Applied to human and other
+  vertebrate samples, our algorithm consistently outperforms existing
+  single-sample assembly pipelines and generates assemblies of similar quality
+  to the best pedigree-based assemblies.%
+    }
+    \verb{doi}
+    \verb 10.1038/s41587-022-01261-x
+    \endverb
+    \field{issn}{15461696}
+    \field{issue}{9}
+    \field{pages}{1332\bibrangedash 1335}
+    \field{title}{Haplotype-resolved assembly of diploid genomes without
+  parental data}
+    \field{volume}{40}
+    \field{journaltitle}{Nature Biotechnology}
+    \field{month}{09}
+    \field{year}{2022}
+  \endentry
+
+  \entry{Cingolani2012}{article}{}
+    \name{author}{9}{}{%
+      {{hash=CP}{%
+         family={Cingolani},
+         familyi={C\bibinitperiod},
+         given={Pablo},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Platts},
+         familyi={P\bibinitperiod},
+         given={Adrian},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=WLL}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Le\bibnamedelima Lily},
+         giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Coon},
+         familyi={C\bibinitperiod},
+         given={Melissa},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=NT}{%
+         family={Nguyen},
+         familyi={N\bibinitperiod},
+         given={Tung},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=WL}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Luan},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=LSJ}{%
+         family={Land},
+         familyi={L\bibinitperiod},
+         given={Susan\bibnamedelima J.},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=LX}{%
+         family={Lu},
+         familyi={L\bibinitperiod},
+         given={Xiangyi},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=RDM}{%
+         family={Ruden},
+         familyi={R\bibinitperiod},
+         given={Douglas\bibnamedelima M.},
+         giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {Taylor}%
+      {Francis Inc.}%
+    }
+    \keyw{Drosophila melanogaster,Next generation DNA sequencing,Personal
+  genomes,Whole-genome SNP analysis}
+    \strng{namehash}{CP+1}
+    \strng{fullhash}{CPPAWLLCMNTWLLSJLXRDM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    We describe a new computer program, SnpEff, for rapidly categorizing the
+  effects of variants in genome sequences. Once a genome is sequenced, SnpEff
+  annotates variants based on their genomic locations and predicts coding
+  effects. Annotated genomic locations include intronic, untranslated region,
+  upstream, downstream, splice site, or intergenic regions. Coding effects such
+  as synonymous or non-synonymous amino acid replacement, start codon gains or
+  losses, stop codon gains or losses, or frame shifts can be predicted. Here
+  the use of SnpEff is illustrated by annotating ~356,660 candidate SNPs in
+  ~117 Mb unique sequences, representing a substitution rate of ~1/305
+  nucleotides, between the Drosophila melanogaster w1118; iso-2; iso-3 strain
+  and the reference y1; cn1 bw1 sp1 strain. We show that ~15,842 SNPs are
+  synonymous and ~4,467 SNPs are non-synonymous (N/S ~0.28). The remaining SNPs
+  are in other categories, such as stop codon gains (38 SNPs), stop codon
+  losses (8 SNPs), and start codon gains (297 SNPs) in the 5'UTR. We found, as
+  expected, that the SNP frequency is proportional to the recombination
+  frequency (i.e., highest in the middle of chromosome arms). We also found
+  that start-gain or stop-lost SNPs in Drosophila melanogaster often result in
+  additions of N-terminal or C-terminal amino acids that are conserved in other
+  Drosophila species. It appears that the 5' and 3'UTRs are reservoirs for
+  genetic variations that changes the termini of proteins during evolution of
+  the Drosophila genus. As genome sequencing is becoming inexpensive and
+  routine, SnpEff enables rapid analyses of whole-genome sequencing data to be
+  performed by an individual laboratory. © 2012 Landes Bioscience.%
+    }
+    \verb{doi}
+    \verb 10.4161/fly.19695
+    \endverb
+    \field{issn}{19336942}
+    \field{issue}{2}
+    \field{pages}{80\bibrangedash 92}
+    \field{title}{A program for annotating and predicting the effects of single
+  nucleotide polymorphisms, SnpEff: SNPs in the genome of Drosophila
+  melanogaster strain w1118; iso-2; iso-3}
+    \field{volume}{6}
+    \field{journaltitle}{Fly}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Dainat2023}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=DJ}{%
+         family={Dainat},
+         familyi={D\bibinitperiod},
+         given={Jacques},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DJ1}
+    \strng{fullhash}{DJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2023}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \verb{doi}
+    \verb 10.5281/zenodo.3552717
+    \endverb
+    \field{title}{AGAT: Another Gff Analysis Toolkit to handle annotations in
+  any GTF/GFF format (Version v1.2.0)}
+    \field{journaltitle}{Zenodo}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Danecek2021}{article}{}
+    \name{author}{10}{}{%
+      {{hash=DP}{%
+         family={Danecek},
+         familyi={D\bibinitperiod},
+         given={Petr},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=BJK}{%
+         family={Bonfield},
+         familyi={B\bibinitperiod},
+         given={James\bibnamedelima K.},
+         giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Liddle},
+         familyi={L\bibinitperiod},
+         given={Jennifer},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={Marshall},
+         familyi={M\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=OV}{%
+         family={Ohan},
+         familyi={O\bibinitperiod},
+         given={Valeriu},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=PMO}{%
+         family={Pollard},
+         familyi={P\bibinitperiod},
+         given={Martin\bibnamedelima O.},
+         giveni={M\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+      {{hash=WA}{%
+         family={Whitwham},
+         familyi={W\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KT}{%
+         family={Keane},
+         familyi={K\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=MSA}{%
+         family={McCarthy},
+         familyi={M\bibinitperiod},
+         given={Shane\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=DRM}{%
+         family={Davies},
+         familyi={D\bibinitperiod},
+         given={Robert\bibnamedelima M.},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \keyw{bcftools,data analysis,high-throughput sequencing,next generation
+  sequencing,samtools,variant calling}
+    \strng{namehash}{DP+1}
+    \strng{fullhash}{DPBJKLJMJOVPMOWAKTMSADRM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    Background: SAMtools and BCFtools are widely used programs for processing
+  and analysing high-throughput sequencing data. They include tools for file
+  format conversion and manipulation, sorting, querying, statistics, variant
+  calling, and effect analysis amongst other methods. Findings: The first
+  version appeared online 12 years ago and has been maintained and further
+  developed ever since, with many new features and improvements added over the
+  years. The SAMtools and BCFtools packages represent a unique collection of
+  tools that have been used in numerous other software projects and countless
+  genomic pipelines. Conclusion: Both SAMtools and BCFtools are freely
+  available on GitHub under the permissive MIT licence, free for both
+  non-commercial and commercial use. Both packages have been installed >1
+  million times via Bioconda. The source code and documentation are available
+  from https://www.htslib.org.%
+    }
+    \verb{doi}
+    \verb 10.1093/gigascience/giab008
+    \endverb
+    \field{issn}{2047217X}
+    \field{issue}{2}
+    \field{title}{Twelve years of SAMtools and BCFtools}
+    \field{volume}{10}
+    \field{journaltitle}{GigaScience}
+    \field{month}{02}
+    \field{year}{2021}
+  \endentry
+
+  \entry{Dudchenko2017}{article}{}
+    \name{author}{11}{}{%
+      {{hash=DO}{%
+         family={Dudchenko},
+         familyi={D\bibinitperiod},
+         given={Olga},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=BSS}{%
+         family={Batra},
+         familyi={B\bibinitperiod},
+         given={Sanjit\bibnamedelima S.},
+         giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=OAD}{%
+         family={Omer},
+         familyi={O\bibinitperiod},
+         given={Arina\bibnamedelima D.},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=NSK}{%
+         family={Nyquist},
+         familyi={N\bibinitperiod},
+         given={Sarah\bibnamedelima K},
+         giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Hoeger},
+         familyi={H\bibinitperiod},
+         given={Marie},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DNC}{%
+         family={Durand},
+         familyi={D\bibinitperiod},
+         given={Neva\bibnamedelima C.},
+         giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=SMS}{%
+         family={Shamim},
+         familyi={S\bibinitperiod},
+         given={Muhammad\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=MI}{%
+         family={Machol},
+         familyi={M\bibinitperiod},
+         given={Ido},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=LES}{%
+         family={Lander},
+         familyi={L\bibinitperiod},
+         given={Eric\bibnamedelima S.},
+         giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=AAP}{%
+         family={Aiden},
+         familyi={A\bibinitperiod},
+         given={Aviva\bibnamedelima Presser},
+         giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=AEL}{%
+         family={Aiden},
+         familyi={A\bibinitperiod},
+         given={Erez\bibnamedelima Lieberman},
+         giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DO+1}
+    \strng{fullhash}{DOBSSOADNSKHMDNCSMSMILESAAPAEL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    The Zika outbreak, spread by the Aedes aegypti mosquito, highlights the
+  need to create high-quality assemblies of large genomes in a rapid and
+  cost-effective way. Here we combine Hi-C data with existing draft assemblies
+  to generate chromosome-length scaffolds. We validate this method by
+  assembling a human genome, de novo, from short reads alone (67× coverage).
+  We then combine our method with draft sequences to create genome assemblies
+  of the mosquito disease vectors Ae. aegypti and Culex quinquefasciatus, each
+  consisting of three scaffolds corresponding to the three chromosomes in each
+  species. These assemblies indicate that almost all genomic rearrangements
+  among these species occur within, rather than between, chromosome arms. The
+  genome assembly procedure we describe is fast, inexpensive, and accurate, and
+  can be applied to many species.%
+    }
+    \verb{doi}
+    \verb 10.1126/science.aal3327
+    \endverb
+    \field{issn}{10959203}
+    \field{issue}{6333}
+    \field{pages}{92\bibrangedash 95}
+    \field{title}{De novo assembly of the Aedes aegypti genome using Hi-C
+  yields chromosome-length scaffolds}
+    \field{volume}{356}
+    \field{journaltitle}{Science}
+    \field{month}{04}
+    \field{year}{2017}
+  \endentry
+
+  \entry{DurandRobinson2016}{article}{}
+    \name{author}{7}{}{%
+      {{hash=DNC}{%
+         family={Durand},
+         familyi={D\bibinitperiod},
+         given={Neva\bibnamedelima C.},
+         giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=RJT}{%
+         family={Robinson},
+         familyi={R\bibinitperiod},
+         given={James\bibnamedelima T.},
+         giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=SMS}{%
+         family={Shamim},
+         familyi={S\bibinitperiod},
+         given={Muhammad\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=MI}{%
+         family={Machol},
+         familyi={M\bibinitperiod},
+         given={Ido},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=MJP}{%
+         family={Mesirov},
+         familyi={M\bibinitperiod},
+         given={Jill\bibnamedelima P.},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=LES}{%
+         family={Lander},
+         familyi={L\bibinitperiod},
+         given={Eric\bibnamedelima S.},
+         giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=AEL}{%
+         family={Aiden},
+         familyi={A\bibinitperiod},
+         given={Erez\bibnamedelima Lieberman},
+         giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cell Press}%
+    }
+    \strng{namehash}{DNC+1}
+    \strng{fullhash}{DNCRJTSMSMIMJPLESAEL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    Hi-C experiments study how genomes fold in 3D, generating contact maps
+  containing features as small as 20 bp and as large as 200 Mb. Here we
+  introduce Juicebox, a tool for exploring Hi-C and other contact map data.
+  Juicebox allows users to zoom in and out of Hi-C maps interactively, just as
+  a user of Google Earth might zoom in and out of a geographic map. Maps can be
+  compared to one another, or to 1D tracks or 2D feature sets.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.cels.2015.07.012
+    \endverb
+    \field{issn}{24054720}
+    \field{issue}{1}
+    \field{pages}{99\bibrangedash 101}
+    \field{title}{Juicebox Provides a Visualization System for Hi-C Contact
+  Maps with Unlimited Zoom}
+    \verb{url}
+    \verb http://dx.doi.org/10.1016/j.cels.2015.07.012
+    \endverb
+    \field{volume}{3}
+    \field{journaltitle}{Cell Systems}
+    \field{month}{07}
+    \field{year}{2016}
+  \endentry
+
+  \entry{DurandShamin2016}{article}{}
+    \name{author}{7}{}{%
+      {{hash=DNC}{%
+         family={Durand},
+         familyi={D\bibinitperiod},
+         given={Neva\bibnamedelima C.},
+         giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=SMS}{%
+         family={Shamim},
+         familyi={S\bibinitperiod},
+         given={Muhammad\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=MI}{%
+         family={Machol},
+         familyi={M\bibinitperiod},
+         given={Ido},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=RSS}{%
+         family={Rao},
+         familyi={R\bibinitperiod},
+         given={Suhas\bibnamedelima S.P.},
+         giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=HMH}{%
+         family={Huntley},
+         familyi={H\bibinitperiod},
+         given={Miriam\bibnamedelima H.},
+         giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=LES}{%
+         family={Lander},
+         familyi={L\bibinitperiod},
+         given={Eric\bibnamedelima S.},
+         giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=AEL}{%
+         family={Aiden},
+         familyi={A\bibinitperiod},
+         given={Erez\bibnamedelima Lieberman},
+         giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cell Press}%
+    }
+    \strng{namehash}{DNC+1}
+    \strng{fullhash}{DNCSMSMIRSSHMHLESAEL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    Hi-C experiments explore the 3D structure of the genome, generating
+  terabases of data to create high-resolution contact maps. Here, we introduce
+  Juicer, an open-source tool for analyzing terabase-scale Hi-C datasets.
+  Juicer allows users without a computational background to transform raw
+  sequence data into normalized contact maps with one click. Juicer produces a
+  hic file containing compressed contact matrices at many resolutions,
+  facilitating visualization and analysis at multiple scales. Structural
+  features, such as loops and domains, are automatically annotated. Juicer is
+  available as open source software at http://aidenlab.org/juicer/.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.cels.2016.07.002
+    \endverb
+    \field{issn}{24054720}
+    \field{issue}{1}
+    \field{pages}{95\bibrangedash 98}
+    \field{title}{Juicer Provides a One-Click System for Analyzing
+  Loop-Resolution Hi-C Experiments}
+    \field{volume}{3}
+    \field{journaltitle}{Cell Systems}
+    \field{month}{07}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Flynn2020}{article}{}
+    \name{author}{7}{}{%
+      {{hash=FJM}{%
+         family={Flynn},
+         familyi={F\bibinitperiod},
+         given={Jullien\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=HR}{%
+         family={Hubley},
+         familyi={H\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=GC}{%
+         family={Goubert},
+         familyi={G\bibinitperiod},
+         given={Clément},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=RJ}{%
+         family={Rosen},
+         familyi={R\bibinitperiod},
+         given={Jeb},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CAG}{%
+         family={Clark},
+         familyi={C\bibinitperiod},
+         given={Andrew\bibnamedelima G.},
+         giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=FC}{%
+         family={Feschotte},
+         familyi={F\bibinitperiod},
+         given={Cédric},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SAF}{%
+         family={Smit},
+         familyi={S\bibinitperiod},
+         given={Arian\bibnamedelima F.},
+         giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {BioMed Central Ltd.}%
+    }
+    \strng{namehash}{FJM+1}
+    \strng{fullhash}{FJMHRGCRJCAGFCSAF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{abstract}{%
+    The accelerating pace of genome sequencing throughout the tree of life is
+  driving the need for improved unsupervised annotation of genome components
+  such as transposable elements (TEs). Because the types and sequences of TEs
+  are highly variable across species, automated TE discovery and annotation are
+  challenging and time-consuming tasks. A critical first step is the de novo
+  identification and accurate compilation of sequence models representing all
+  of the unique TE families dispersed in the genome. Here we introduce
+  RepeatModeler2, a pipeline that greatly facilitates this process. This
+  program brings substantial improvements over the original version of
+  RepeatModeler, one of the most widely used tools for TE discovery. In
+  particular, this version incorporates a module for structural discovery of
+  complete long terminal repeat (LTR) retroelements, which are widespread in
+  eukaryotic genomes but recalcitrant to automated identification because of
+  their size and sequence complexity. We benchmarked RepeatModeler2 on three
+  model species with diverse TE landscapes and high-quality, manually curated
+  TE libraries: Drosophila melanogaster (fruit fly), Danio rerio (zebrafish),
+  and Oryza sativa (rice). In these three species, RepeatModeler2 identified
+  approximately 3 times more consensus sequences matching with >95% sequence
+  identity and sequence coverage to the manually curated sequences than the
+  original RepeatModeler. As expected, the greatest improvement is for LTR
+  retroelements. Thus, RepeatModeler2 represents a valuable addition to the
+  genome annotation toolkit that will enhance the identification and study of
+  TEs in eukaryotic genome sequences. RepeatModeler2 is available as source
+  code or a containerized package under an open license
+  (https://github.com/Dfam-consortium/RepeatModeler,
+  http://www.repeatmasker.org/RepeatModeler/).%
+    }
+    \field{issue}{17}
+    \field{pages}{9451\bibrangedash 9457}
+    \field{title}{RepeatModeler2 for automated genomic discovery of
+  transposable element families}
+    \verb{url}
+    \verb https://doi.org/10.1073/pnas.1921046117
+    \endverb
+    \field{volume}{117}
+    \field{journaltitle}{PNAS}
+    \field{month}{04}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Gabriel2021}{article}{}
+    \name{author}{5}{}{%
+      {{hash=GL}{%
+         family={Gabriel},
+         familyi={G\bibinitperiod},
+         given={Lars},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=HKJ}{%
+         family={Hoff},
+         familyi={H\bibinitperiod},
+         given={Katharina\bibnamedelima J.},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Brůna},
+         familyi={B\bibinitperiod},
+         given={Tomáš},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Borodovsky},
+         familyi={B\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Stanke},
+         familyi={S\bibinitperiod},
+         given={Mario},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {BioMed Central Ltd}%
+    }
+    \keyw{Evidence integration,Gene prediction,Genome annotation,Protein
+  homology,Protein-coding genes,RNA-seq}
+    \strng{namehash}{GL+1}
+    \strng{fullhash}{GLHKJBTBMSM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    Background: BRAKER is a suite of automatic pipelines, BRAKER1 and BRAKER2,
+  for the accurate annotation of protein-coding genes in eukaryotic genomes.
+  Each pipeline trains statistical models of protein-coding genes based on
+  provided evidence and, then predicts protein-coding genes in genomic
+  sequences using both the extrinsic evidence and statistical models. For
+  training and prediction, BRAKER1 and BRAKER2 incorporate complementary
+  extrinsic evidence: BRAKER1 uses only RNA-seq data while BRAKER2 uses only a
+  database of cross-species proteins. The BRAKER suite has so far not been able
+  to reliably exceed the accuracy of BRAKER1 and BRAKER2 when incorporating
+  both types of evidence simultaneously. Currently, for a novel genome project
+  where both RNA-seq and protein data are available, the best option is to run
+  both pipelines independently, and to pick one, likely better output.
+  Therefore, one or another type of the extrinsic evidence would remain
+  unexploited. Results: We present TSEBRA, a software that selects gene
+  predictions (transcripts) from the sets generated by BRAKER1 and BRAKER2.
+  TSEBRA uses a set of rules to compare scores of overlapping transcripts based
+  on their support by RNA-seq and homologous protein evidence. We show in
+  computational experiments on genomes of 11 species that TSEBRA achieves
+  higher accuracy than either BRAKER1 or BRAKER2 running alone and that TSEBRA
+  compares favorably with the combiner tool EVidenceModeler. Conclusion: TSEBRA
+  is an easy-to-use and fast software tool. It can be used in concert with the
+  BRAKER pipeline to generate a gene prediction set supported by both RNA-seq
+  and homologous protein evidence.%
+    }
+    \verb{doi}
+    \verb 10.1186/s12859-021-04482-0
+    \endverb
+    \field{issn}{14712105}
+    \field{title}{TSEBRA: transcript selector for BRAKER}
+    \field{volume}{22}
+    \field{journaltitle}{BMC Bioinformatics}
+    \field{month}{12}
+    \field{year}{2021}
+  \endentry
+
+  \entry{Gabriel2024}{article}{}
+    \name{author}{7}{}{%
+      {{hash=GL}{%
+         family={Gabriel},
+         familyi={G\bibinitperiod},
+         given={Lars},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Brůna},
+         familyi={B\bibinitperiod},
+         given={Tomáš},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HKJ}{%
+         family={Hoff},
+         familyi={H\bibinitperiod},
+         given={Katharina\bibnamedelima J.},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=EM}{%
+         family={Ebel},
+         familyi={E\bibinitperiod},
+         given={Matthis},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LA}{%
+         family={Lomsadze},
+         familyi={L\bibinitperiod},
+         given={Alexandre},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Borodovsky},
+         familyi={B\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Stanke},
+         familyi={S\bibinitperiod},
+         given={Mario},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cold Spring Harbor Laboratory}%
+    }
+    \strng{namehash}{GL+1}
+    \strng{fullhash}{GLBTHKJEMLABMSM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    Gene prediction has remained an active area of bioinformatics research for
+  a long time. Still, gene prediction in large eukaryotic genomes presents a
+  challenge that must be addressed by new algorithms. The amount and
+  significance of the evidence available from transcriptomes and proteomes vary
+  across genomes, between genes, and even along a single gene. User-friendly
+  and accurate annotation pipelines that can cope with such data heterogeneity
+  are needed. The previously developed annotation pipelines BRAKER1 and BRAKER2
+  use RNA-seq or protein data, respectively, but not both. A further
+  significant performance improvement integrating all three data types was made
+  by the recently released GeneMark-ETP. We here present the BRAKER3 pipeline
+  that builds on GeneMark-ETP and AUGUSTUS, and further improves accuracy using
+  the TSEBRA combiner. BRAKER3 annotates protein-coding genes in eukaryotic
+  genomes using both short-read RNA-seq and a large protein database, along
+  with statistical models learned iteratively and specifically for the target
+  genome. We benchmarked the new pipeline on genomes of 11 species under an
+  assumed level of relatedness of the target species proteome to available
+  proteomes. BRAKER3 outperforms BRAKER1 and BRAKER2. The average
+  transcript-level F1-score is increased by about 20 percentage points on
+  average, whereas the difference is most pronounced for species with large and
+  complex genomes. BRAKER3 also outperforms other existing tools, MAKER2,
+  Funannotate, and FINDER. The code of BRAKER3 is available on GitHub and as a
+  ready-to-run Docker container for execution with Docker or Singularity.
+  Overall, BRAKER3 is an accurate, easy-to-use tool for eukaryotic genome
+  annotation.%
+    }
+    \verb{doi}
+    \verb 10.1101/gr.278090.123
+    \endverb
+    \field{issn}{1088-9051}
+    \field{pages}{769\bibrangedash 777}
+    \field{title}{BRAKER3: Fully automated genome annotation using RNA-seq and
+  protein evidence with GeneMark-ETP, AUGUSTUS, and TSEBRA}
+    \field{volume}{34}
+    \field{journaltitle}{Genome Research}
+    \field{month}{05}
+    \field{year}{2024}
+  \endentry
+
+  \entry{GarciaAlcalde2012}{article}{}
+    \name{author}{9}{}{%
+      {{hash=GAF}{%
+         family={García-Alcalde},
+         familyi={G\bibinithyphendelim A\bibinitperiod},
+         given={Fernando},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=OK}{%
+         family={Okonechnikov},
+         familyi={O\bibinitperiod},
+         given={Konstantin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Carbonell},
+         familyi={C\bibinitperiod},
+         given={José},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CLM}{%
+         family={Cruz},
+         familyi={C\bibinitperiod},
+         given={Luis\bibnamedelima M.},
+         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Götz},
+         familyi={G\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=TS}{%
+         family={Tarazona},
+         familyi={T\bibinitperiod},
+         given={Sonia},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Dopazo},
+         familyi={D\bibinitperiod},
+         given={Joaquín},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MTF}{%
+         family={Meyer},
+         familyi={M\bibinitperiod},
+         given={Thomas\bibnamedelima F.},
+         giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Conesa},
+         familyi={C\bibinitperiod},
+         given={Ana},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GAF+1}
+    \strng{fullhash}{GAFOKCJCLMGSTSDJMTFCA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    Motivation: The sequence alignment/map (SAM) and the binary alignment/map
+  (BAM) formats have become the standard method of representation of nucleotide
+  sequence alignments for next-generation sequencing data. SAM/BAM files
+  usually contain information from tens to hundreds of millions of reads.
+  Often, the sequencing technology, protocol and/or the selected mapping
+  algorithm introduce some unwanted biases in these data. The systematic
+  detection of such biases is a non-trivial task that is crucial to drive
+  appropriate downstream analyses.Results: We have developed Qualimap, a Java
+  application that supports user-friendly quality control of mapping data, by
+  considering sequence features and their genomic properties. Qualimap takes
+  sequence alignment data and provides graphical and statistical analyses for
+  the evaluation of data. Such quality-control data are vital for highlighting
+  problems in the sequencing and/or mapping processes, which must be addressed
+  prior to further analyses. © The Author 2012. Published by Oxford University
+  Press. All rights reserved.%
+    }
+    \verb{doi}
+    \verb 10.1093/bioinformatics/bts503
+    \endverb
+    \field{issn}{13674803}
+    \field{issue}{20}
+    \field{pages}{2678\bibrangedash 2679}
+    \field{title}{Qualimap: Evaluating next-generation sequencing alignment
+  data}
+    \field{volume}{28}
+    \field{journaltitle}{Bioinformatics}
+    \field{month}{10}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Garrison2012}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GE}{%
+         family={Garrison},
+         familyi={G\bibinitperiod},
+         given={Erik},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=MG}{%
+         family={Marth},
+         familyi={M\bibinitperiod},
+         given={Gabor},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GEMG1}
+    \strng{fullhash}{GEMG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    The direct detection of haplotypes from short-read DNA sequencing data
+  requires changes to existing small-variant detection methods. Here, we
+  develop a Bayesian statistical framework which is capable of modeling
+  multiallelic loci in sets of individuals with non-uniform copy number. We
+  then describe our implementation of this framework in a haplotype-based
+  variant detector, FreeBayes.%
+    }
+    \verb{doi}
+    \verb 10.48550/arXiv.1207.3907
+    \endverb
+    \field{title}{Haplotype-based variant detection from short-read sequencing}
+    \verb{url}
+    \verb http://arxiv.org/abs/1207.3907 https://doi.org/10.48550/arXiv.1207.39
+    \verb 07
+    \endverb
+    \field{journaltitle}{arXiv}
+    \field{month}{07}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Gotoh2008}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GO}{%
+         family={Gotoh},
+         familyi={G\bibinitperiod},
+         given={Osamu},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GO1}
+    \strng{fullhash}{GO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    The mapping and alignment of transcripts (cDNA, expressed sequence tag or
+  amino acid sequences) onto a genomic sequence is a fundamental step for
+  genome annotation, including gene finding and analyses of transcriptional
+  activity, alternative splicing and nucleotide polymorphisms. As DNA sequence
+  data of genomes and transcripts are accumulating at an unprecedented rate,
+  steady improvement in accuracy, speed and space requirement in the
+  computational tools for mapping/ alignment is desired. We devised a
+  multi-phase heuristic algorithm and implemented it in the development of the
+  stand-alone computer program Spaln (space-efficient spliced alignment). Spaln
+  is reasonably fast and space efficient; it requires < 1 Gb of memory to map
+  and align > 120 000 Unigene sequences onto the unmasked whole human genome
+  with a conventional computer, finishing the job in < 6 h. With artificially
+  introduced noise of various levels, Spaln significantly outperforms other
+  leading alignment programs currently available with respect to the accuracy
+  of mapped exon-intron structures. This performance is achieved without
+  extensive learning procedures to adjust parameter values to a particular
+  organism. According to the handiness and accuracy, Spaln may be used for
+  studies on a wide area of genome analyses. © 2008 The Author(s).%
+    }
+    \verb{doi}
+    \verb 10.1093/nar/gkn105
+    \endverb
+    \field{issn}{03051048}
+    \field{issue}{8}
+    \field{pages}{2630\bibrangedash 2638}
+    \field{title}{A space-efficient and accurate method for mapping and
+  aligning cDNA sequences onto genomic sequence}
+    \field{volume}{36}
+    \field{journaltitle}{Nucleic Acids Research}
+    \field{month}{05}
+    \field{year}{2008}
+  \endentry
+
+  \entry{Guan2020}{article}{}
+    \name{author}{8}{}{%
+      {{hash=GD}{%
+         family={Guan},
+         familyi={G\bibinitperiod},
+         given={Dengfeng},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=GD}{%
+         family={Guan},
+         familyi={G\bibinitperiod},
+         given={Dengfeng},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MSA}{%
+         family={McCarthy},
+         familyi={M\bibinitperiod},
+         given={Shane\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wood},
+         familyi={W\bibinitperiod},
+         given={Jonathan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HK}{%
+         family={Howe},
+         familyi={H\bibinitperiod},
+         given={Kerstin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=WY}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Yadong},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=DR}{%
+         family={Durbin},
+         familyi={D\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=DR}{%
+         family={Durbin},
+         familyi={D\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{GD+1}
+    \strng{fullhash}{GDGDMSAWJHKWYDRDR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    Motivation: Rapid development in long-read sequencing and scaffolding
+  technologies is accelerating the production of reference-quality assemblies
+  for large eukaryotic genomes. However, haplotype divergence in regions of
+  high heterozygosity often results in assemblers creating two copies rather
+  than one copy of a region, leading to breaks in contiguity and compromising
+  downstream steps such as gene annotation. Several tools have been developed
+  to resolve this problem. However, they either focus only on removing
+  contained duplicate regions, also known as haplotigs, or fail to use all the
+  relevant information and hence make errors. Results: Here we present a novel
+  tool, purge_dups, that uses sequence similarity and read depth to
+  automatically identify and remove both haplotigs and heterozygous overlaps.
+  In comparison with current tools, we demonstrate that purge_dups can reduce
+  heterozygous duplication and increase assembly continuity while maintaining
+  completeness of the primary assembly. Moreover, purge_dups is fully automatic
+  and can easily be integrated into assembly pipelines.%
+    }
+    \verb{doi}
+    \verb 10.1093/bioinformatics/btaa025
+    \endverb
+    \field{issn}{14602059}
+    \field{issue}{9}
+    \field{pages}{2896\bibrangedash 2898}
+    \field{title}{Identifying and removing haplotypic duplication in primary
+  genome assemblies}
+    \field{volume}{36}
+    \field{journaltitle}{Bioinformatics}
+    \field{month}{05}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Hoff2016}{article}{}
+    \name{author}{5}{}{%
+      {{hash=HKJ}{%
+         family={Hoff},
+         familyi={H\bibinitperiod},
+         given={Katharina\bibnamedelima J.},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Lange},
+         familyi={L\bibinitperiod},
+         given={Simone},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LA}{%
+         family={Lomsadze},
+         familyi={L\bibinitperiod},
+         given={Alexandre},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Borodovsky},
+         familyi={B\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Stanke},
+         familyi={S\bibinitperiod},
+         given={Mario},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{HKJ+1}
+    \strng{fullhash}{HKJLSLABMSM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{abstract}{%
+    Motivation: Gene finding in eukaryotic genomes is notoriously difficult to
+  automate. The task is to design a work flow with a minimal set of tools that
+  would reach state-of-the-art performance across a wide range of species.
+  GeneMark-ET is a gene prediction tool that incorporates RNA-Seq data into
+  unsupervised training and subsequently generates ab initio gene predictions.
+  AUGUSTUS is a gene finder that usually requires supervised training and uses
+  information from RNA-Seq reads in the prediction step. Complementary
+  strengths of GeneMark-ET and AUGUSTUS provided motivation for designing a new
+  combined tool for automatic gene prediction. Results: We present BRAKER1, a
+  pipeline for unsupervised RNA-Seq-based genome annotation that combines the
+  advantages of GeneMark-ET and AUGUSTUS. As input, BRAKER1 requires a genome
+  assembly file and a file in bam-format with spliced alignments of RNA-Seq
+  reads to the genome. First, GeneMark-ET performs iterative training and
+  generates initial gene structures. Second, AUGUSTUS uses predicted genes for
+  training and then integrates RNA-Seq read information into final gene
+  predictions. In our experiments, we observed that BRAKER1 was more accurate
+  than MAKER2 when it is using RNA-Seq as sole source for training and
+  prediction. BRAKER1 does not require pre-trained parameters or a separate
+  expert-prepared training step.%
+    }
+    \verb{doi}
+    \verb 10.1093/bioinformatics/btv661
+    \endverb
+    \field{issn}{14602059}
+    \field{issue}{5}
+    \field{pages}{767\bibrangedash 769}
+    \field{title}{BRAKER1: Unsupervised RNA-Seq-based genome annotation with
+  GeneMark-ET and AUGUSTUS}
+    \field{volume}{32}
+    \field{journaltitle}{Bioinformatics}
+    \field{month}{03}
+    \field{year}{2016}
+  \endentry
+
+  \entry{SAMN04014362}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=IA}{%
+         family={[Internet]},
+         familyi={I\bibinitperiod},
+         given={Assembly},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Bethesda (MD): National Library of Medicine (US), National Center for
+  Biotechnology Information; [1988] -}%
+    }
+    \strng{namehash}{IA1}
+    \strng{fullhash}{IA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{title}{GenBank assembly accession: GCA_001718145.1, BioSample ID:
+  SAMN04014362, Orchesella cincta, haploid}
+    \verb{url}
+    \verb https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_001718145.1
+    \endverb
+    \field{month}{08}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Iwata2012}{article}{}
+    \name{author}{2}{}{%
+      {{hash=IH}{%
+         family={Iwata},
+         familyi={I\bibinitperiod},
+         given={Hiroaki},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=GO}{%
+         family={Gotoh},
+         familyi={G\bibinitperiod},
+         given={Osamu},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{IHGO1}
+    \strng{fullhash}{IHGO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{abstract}{%
+    Spliced alignment plays a central role in the precise identification of
+  eukaryotic gene structures. Even though many spliced alignment programs have
+  been developed, recent rapid progress in DNA sequencing technologies demands
+  further improvements in software tools. Benchmarking algorithms under various
+  conditions is an indispensable task for the development of better software;
+  however, there is a dire lack of appropriate datasets usable for benchmarking
+  spliced alignment programs. In this study, we have constructed two types of
+  datasets: simulated sequence datasets and actual cross-species datasets. The
+  datasets are designed to correspond to various real situations, i.e.
+  divergent eukaryotic species, different types of reference sequences, and the
+  wide divergence between query and target sequences. In addition, we have
+  developed an extended version of our program Spaln, which incorporates two
+  additional features to the scoring scheme of the original version, and
+  examined this extended version, Spaln2, together with the original Spaln and
+  other representative aligners based on our benchmark datasets. Although the
+  effects of the modifications are not individually striking, Spaln2 is
+  consistently most accurate and reasonably fast in most practical cases,
+  especially for plants and fungi and for increasingly divergent pairs of
+  target and query sequences. © 2012 The Author(s).%
+    }
+    \verb{doi}
+    \verb 10.1093/nar/gks708
+    \endverb
+    \field{issn}{03051048}
+    \field{issue}{20}
+    \field{pages}{e161}
+    \field{title}{Benchmarking spliced alignment programs including Spaln2, an
+  extended version of Spaln that incorporates additional species-specific
+  features}
+    \field{volume}{40}
+    \field{journaltitle}{Nucleic Acids Research}
+    \field{month}{11}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Li2013}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LH}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Heng},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LH1}
+    \strng{fullhash}{LH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{abstract}{%
+    Summary: BWA-MEM is a new alignment algorithm for aligning sequence reads
+  or long query sequences against a large reference genome such as human. It
+  automatically chooses between local and end-to-end alignments, supports
+  paired-end reads and performs chimeric alignment. The algorithm is robust to
+  sequencing errors and applicable to a wide range of sequence lengths from
+  70bp to a few megabases. For mapping 100bp sequences, BWA-MEM shows better
+  performance than several state-of-art read aligners to date. Availability and
+  implementation: BWA-MEM is implemented as a component of BWA, which is
+  available at http://github.com/lh3/bwa. Contact: hengli@broadinstitute.org%
+    }
+    \field{title}{Aligning sequence reads, clone sequences and assembly contigs
+  with BWA-MEM}
+    \verb{url}
+    \verb http://arxiv.org/abs/1303.3997
+    \endverb
+    \field{month}{03}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Li2018}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LH}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Heng},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{LH1}
+    \strng{fullhash}{LH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{abstract}{%
+    Motivation: Recent advances in sequencing technologies promise ultra-long
+  reads of ~100 kb in average, full-length mRNA or cDNA reads in high
+  throughput and genomic contigs over 100 Mb in length. Existing alignment
+  programs are unable or inefficient to process such data at scale, which
+  presses for the development of new alignment algorithms. Results: Minimap2 is
+  a general-purpose alignment program to map DNA or long mRNA sequences against
+  a large reference database. It works with accurate short reads of ≥100 bp
+  in length, ≥1 kb genomic reads at error rate ~15%, full-length noisy Direct
+  RNA or cDNA reads and assembly contigs or closely related full chromosomes of
+  hundreds of megabases in length. Minimap2 does split-read alignment, employs
+  concave gap cost for long insertions and deletions and introduces new
+  heuristics to reduce spurious alignments. It is 3–4 times as fast as
+  mainstream short-read mappers at comparable accuracy, and is ≥30 times
+  faster than long-read genomic or cDNA mappers at higher accuracy, surpassing
+  most aligners specialized in one type of alignment.%
+    }
+    \verb{doi}
+    \verb 10.1093/bioinformatics/bty191
+    \endverb
+    \field{issn}{14602059}
+    \field{issue}{18}
+    \field{pages}{3094\bibrangedash 3100}
+    \field{title}{Minimap2: Pairwise alignment for nucleotide sequences}
+    \field{volume}{34}
+    \field{journaltitle}{Bioinformatics}
+    \field{month}{09}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Li2021}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LH}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Heng},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{LH1}
+    \strng{fullhash}{LH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{abstract}{%
+    Summary: We present several recent improvements to minimap2, a versatile
+  pairwise aligner for nucleotide sequences. Now minimap2 v2.22 can more
+  accurately map long reads to highly repetitive regions and align through
+  insertions or deletions up to 100 kb by default, addressing major weakness in
+  minimap2 v2.18 or earlier.%
+    }
+    \verb{doi}
+    \verb 10.1093/bioinformatics/btab705
+    \endverb
+    \field{issn}{14602059}
+    \field{issue}{23}
+    \field{pages}{4572\bibrangedash 4574}
+    \field{title}{New strategies to improve minimap2 alignment accuracy}
+    \field{volume}{37}
+    \field{journaltitle}{Bioinformatics}
+    \field{month}{12}
+    \field{year}{2021}
+  \endentry
+
+  \entry{Manni2021}{article}{}
+    \name{author}{5}{}{%
+      {{hash=MM}{%
+         family={Manni},
+         familyi={M\bibinitperiod},
+         given={Mosè},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BMR}{%
+         family={Berkeley},
+         familyi={B\bibinitperiod},
+         given={Matthew\bibnamedelima R.},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Seppey},
+         familyi={S\bibinitperiod},
+         given={Mathieu},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SFA}{%
+         family={Simão},
+         familyi={S\bibinitperiod},
+         given={Felipe\bibnamedelima A.},
+         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=ZEM}{%
+         family={Zdobnov},
+         familyi={Z\bibinitperiod},
+         given={Evgeny\bibnamedelima M.},
+         giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+  \keyw{completeness,eukaryotes,genome,metagenomes,microbes,prokaryotes,quality
+  assessment,transcriptome,viruses}
+    \strng{namehash}{MM+1}
+    \strng{fullhash}{MMBMRSMSFAZEM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{abstract}{%
+    Methods for evaluating the quality of genomic and metagenomic data are
+  essential to aid genome assembly procedures and to correctly interpret the
+  results of subsequent analyses. BUSCO estimates the completeness and
+  redundancy of processed genomic data based on universal single-copy
+  orthologs. Here, we present new functionalities and major improvements of the
+  BUSCO software, as well as the renewal and expansion of the underlying data
+  sets in sync with the OrthoDB v10 release. Among the major novelties, BUSCO
+  now enables phylogenetic placement of the input sequence to automatically
+  select the most appropriate BUSCO data set for the assessment, allowing the
+  analysis of metagenome-Assembled genomes of unknown origin. A newly
+  introduced genome workflow increases the efficiency and runtimes especially
+  on large eukaryotic genomes. BUSCO is the only tool capable of assessing both
+  eukaryotic and prokaryotic species, and can be applied to various data types,
+  from genome assemblies and metagenomic bins, to transcriptomes and gene
+  sets.%
+    }
+    \verb{doi}
+    \verb 10.1093/molbev/msab199
+    \endverb
+    \field{issn}{15371719}
+    \field{issue}{10}
+    \field{pages}{4647\bibrangedash 4654}
+    \field{title}{BUSCO Update: Novel and Streamlined Workflows along with
+  Broader and Deeper Phylogenetic Coverage for Scoring of Eukaryotic,
+  Prokaryotic, and Viral Genomes}
+    \field{volume}{38}
+    \field{journaltitle}{Molecular Biology and Evolution}
+    \field{month}{10}
+    \field{year}{2021}
+  \endentry
+
+  \entry{MathurMason2023}{article}{}
+    \name{author}{4}{}{%
+      {{hash=MS}{%
+         family={Mathur},
+         familyi={M\bibinitperiod},
+         given={Samarth},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MAJ}{%
+         family={Mason},
+         familyi={M\bibinitperiod},
+         given={Andrew\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BGS}{%
+         family={Bradburd},
+         familyi={B\bibinitperiod},
+         given={Gideon\bibnamedelima S.},
+         giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=GHL}{%
+         family={Gibbs},
+         familyi={G\bibinitperiod},
+         given={H.\bibnamedelima Lisle},
+         giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {National Academy of Sciences}%
+    }
+    \keyw{Sistrurus catenatus,adaptive variation,conservation genomics,mutation
+  load,neutral and functional genomic diversity}
+    \strng{namehash}{MS+1}
+    \strng{fullhash}{MSMAJBGSGHL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2023}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{abstract}{%
+    Theory predicts that genetic erosion in small, isolated populations of
+  endangered species can be assessed using estimates of neutral genetic
+  variation, yet this widely used approach has recently been questioned in the
+  genomics era. Here, we leverage a chromosome-level genome assembly of an
+  endangered rattlesnake (Sistrurus catenatus) combined with whole genome
+  resequencing data (N = 110 individuals) to evaluate the relationship between
+  levels of genome-wide neutral and functional diversity over historical and
+  future timescales. As predicted, we found positive correlations between
+  genome-wide estimates of neutral genetic diversity (π) and inferred levels
+  of adaptive variation and an estimate of inbreeding mutation load, and a
+  negative relationship between neutral diversity and an estimate of drift
+  mutation load. However, these correlations were half as strong for projected
+  future levels of neutral diversity based on contemporary effective population
+  sizes. Broadly, our results confirm that estimates of neutral genetic
+  diversity provide an accurate measure of genetic erosion in populations of a
+  threatened vertebrate. They also provide nuance to the neutral-functional
+  diversity controversy by suggesting that while these correlations exist,
+  anthropogenetic impacts may have weakened these associations in the recent
+  past and into the future.%
+    }
+    \verb{doi}
+    \verb 10.1073/pnas.2303043120
+    \endverb
+    \field{issn}{10916490}
+    \field{issue}{43}
+    \field{title}{Functional genomic diversity is correlated with neutral
+  genomic diversity in populations of an endangered rattlesnake}
+    \field{volume}{120}
+    \field{journaltitle}{Proceedings of the National Academy of Sciences of the
+  United States of America}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Pertea2020}{article}{}
+    \name{author}{2}{}{%
+      {{hash=PM}{%
+         family={Pertea},
+         familyi={P\bibinitperiod},
+         given={Mihaela},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PG}{%
+         family={Pertea},
+         familyi={P\bibinitperiod},
+         given={Geo},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {F1000 Research Ltd}%
+    }
+    \keyw{GTF and GFF file formats,Gene annotation,Transcriptome analysis}
+    \strng{namehash}{PMPG1}
+    \strng{fullhash}{PMPG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{abstract}{%
+    Summary: GTF (Gene Transfer Format) and GFF (General Feature Format) are
+  popular file formats used by bioinformatics programs to represent and
+  exchange information about various genomic features, such as gene and
+  transcript locations and structure. GffRead and GffCompare are open source
+  programs that provide extensive and efficient solutions to manipulate files
+  in a GTF or GFF format. While GffRead can convert, sort, filter, transform,
+  or cluster genomic features, GffCompare can be used to compare and merge
+  different gene annotations. Availability and implementation: GFF utilities
+  are implemented in C++ for Linux and OS X and released as open source under
+  an MIT license ( https://github.com/gpertea/gffread,
+  https://github.com/gpertea/gffcompare).%
+    }
+    \verb{doi}
+    \verb 10.12688/f1000research.23297.1
+    \endverb
+    \field{issn}{1759796X}
+    \field{title}{GFF Utilities: GffRead and GffCompare}
+    \field{volume}{9}
+    \field{journaltitle}{F1000Research}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Quinlan2010}{article}{}
+    \name{author}{2}{}{%
+      {{hash=QAR}{%
+         family={Quinlan},
+         familyi={Q\bibinitperiod},
+         given={Aaron\bibnamedelima R.},
+         giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=HIM}{%
+         family={Hall},
+         familyi={H\bibinitperiod},
+         given={Ira\bibnamedelima M.},
+         giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{QARHIM1}
+    \strng{fullhash}{QARHIM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{Q}
+    \field{sortinithash}{Q}
+    \field{abstract}{%
+    Motivation: Testing for correlations between different sets of genomic
+  features is a fundamental task in genomics research. However, searching for
+  overlaps between features with existing webbased methods is complicated by
+  the massive datasets that are routinely produced with current sequencing
+  technologies. Fast and flexible tools are therefore required to ask complex
+  questions of these data in an efficient manner. Results: This article
+  introduces a new software suite for the comparison, manipulation and
+  annotation of genomic features in Browser Extensible Data (BED) and General
+  Feature Format (GFF) format. BEDTools also supports the comparison of
+  sequence alignments in BAM format to both BED and GFF features. The tools are
+  extremely efficient and allow the user to compare large datasets (e.g.
+  next-generation sequencing data) with both public and custom genome
+  annotation tracks. BEDTools can be combined with one another as well as with
+  standard UNIX commands, thus facilitating routine genomics tasks as well as
+  pipelines that can quickly answer intricate questions of large genomic
+  datasets. Availability and implementation: BEDTools was written in C++.
+  Source code and a comprehensive user manual are freely available at
+  http://code.google.com/p/bedtools. Contact: aaronquinlan@gmail.com;
+  imh4y@virginia.edu. Supplementary information: Supplementary data are
+  available at Bioinformatics online. © The Author(s) 2010. Published by
+  Oxford University Press.%
+    }
+    \verb{doi}
+    \verb 10.1093/bioinformatics/btq033
+    \endverb
+    \field{issn}{13674803}
+    \field{issue}{6}
+    \field{pages}{841\bibrangedash 842}
+    \field{title}{BEDTools: A flexible suite of utilities for comparing genomic
+  features}
+    \field{volume}{26}
+    \field{journaltitle}{Bioinformatics}
+    \field{month}{01}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Schubert2016}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SM}{%
+         family={Schubert},
+         familyi={S\bibinitperiod},
+         given={Mikkel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Lindgreen},
+         familyi={L\bibinitperiod},
+         given={Stinus},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=OL}{%
+         family={Orlando},
+         familyi={O\bibinitperiod},
+         given={Ludovic},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {BioMed Central Ltd.}%
+    }
+    \keyw{Adapter identification,Adapter trimming,Data
+  pre-processing,High-throughput sequencing,Sequence alignment}
+    \strng{namehash}{SMLSOL1}
+    \strng{fullhash}{SMLSOL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Background: As high-throughput sequencing platforms produce longer and
+  longer reads, sequences generated from short inserts, such as those obtained
+  from fossil and degraded material, are increasingly expected to contain
+  adapter sequences. Efficient adapter trimming algorithms are also needed to
+  process the growing amount of data generated per sequencing run. Findings: We
+  introduce AdapterRemoval v2, a major revision of AdapterRemoval v1, which
+  introduces (i) striking improvements in throughput, through the use of single
+  instruction, multiple data (SIMD; SSE1 and SSE2) instructions and
+  multi-threading support, (ii) the ability to handle datasets containing reads
+  or read-pairs with different adapters or adapter pairs, (iii) simultaneous
+  demultiplexing and adapter trimming, (iv) the ability to reconstruct adapter
+  sequences from paired-end reads for poorly documented data sets, and (v)
+  native gzip and bzip2 support. Conclusions: We show that AdapterRemoval v2
+  compares favorably with existing tools, while offering superior throughput to
+  most alternatives examined here, both for single and multi-threaded
+  operations.%
+    }
+    \verb{doi}
+    \verb 10.1186/s13104-016-1900-2
+    \endverb
+    \field{issn}{17560500}
+    \field{title}{AdapterRemoval v2: Rapid adapter trimming, identification,
+  and read merging}
+    \field{volume}{9}
+    \field{journaltitle}{BMC Research Notes}
+    \field{month}{02}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Sim2022}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SSB}{%
+         family={Sim},
+         familyi={S\bibinitperiod},
+         given={Sheina\bibnamedelima B.},
+         giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=CRL}{%
+         family={Corpuz},
+         familyi={C\bibinitperiod},
+         given={Renee\bibnamedelima L.},
+         giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=STJ}{%
+         family={Simmonds},
+         familyi={S\bibinitperiod},
+         given={Tyler\bibnamedelima J.},
+         giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=GSM}{%
+         family={Geib},
+         familyi={G\bibinitperiod},
+         given={Scott\bibnamedelima M.},
+         giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {BioMed Central Ltd}%
+    }
+    \keyw{Adapter,Circular consensus sequencing,PacBio HiFi,Sequence data
+  filtering}
+    \strng{namehash}{SSB+1}
+    \strng{fullhash}{SSBCRLSTJGSM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Background: Pacific Biosciences HiFi read technology is currently the
+  industry standard for high accuracy long-read sequencing that has been widely
+  adopted by large sequencing and assembly initiatives for generation of de
+  novo assemblies in non-model organisms. Though adapter contamination
+  filtering is routine in traditional short-read analysis pipelines, it has not
+  been widely adopted for HiFi workflows. Results: Analysis of 55 publicly
+  available HiFi datasets revealed that a read-sanitation step to remove
+  sequence artifacts derived from PacBio library preparation from read pools is
+  necessary as adapter sequences can be erroneously integrated into assemblies.
+  Conclusions: Here we describe the nature of adapter contaminated reads, their
+  consequences in assembly, and present HiFiAdapterFilt, a simple and memory
+  efficient solution for removing adapter contaminated reads prior to
+  assembly.%
+    }
+    \verb{doi}
+    \verb 10.1186/s12864-022-08375-1
+    \endverb
+    \field{issn}{14712164}
+    \field{issue}{1}
+    \field{title}{HiFiAdapterFilt, a memory efficient read processing pipeline,
+  prevents occurrence of adapter sequence in PacBio HiFi reads and their
+  negative impacts on genome assembly}
+    \field{volume}{23}
+    \field{journaltitle}{BMC Genomics}
+    \field{month}{12}
+    \field{year}{2022}
+  \endentry
+
+  \entry{Smit2013}{misc}{}
+    \name{author}{3}{}{%
+      {{hash=SAFA}{%
+         family={Smit},
+         familyi={S\bibinitperiod},
+         given={A.\bibnamedelima F.\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim
+  A\bibinitperiod},
+      }}%
+      {{hash=HR}{%
+         family={Hubley},
+         familyi={H\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=GP}{%
+         family={Green},
+         familyi={G\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SAFAHRGP1}
+    \strng{fullhash}{SAFAHRGP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{RepeatMasker Open-4.0. 2013-2015}
+    \verb{url}
+    \verb http://repeatmasker.org
+    \endverb
+    \field{year}{2013}
+  \endentry
+
+  \entry{Stanke2006}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SM}{%
+         family={Stanke},
+         familyi={S\bibinitperiod},
+         given={Mario},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SO}{%
+         family={Schöffmann},
+         familyi={S\bibinitperiod},
+         given={Oliver},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Morgenstern},
+         familyi={M\bibinitperiod},
+         given={Burkhard},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=WS}{%
+         family={Waack},
+         familyi={W\bibinitperiod},
+         given={Stephan},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SM+1}
+    \strng{fullhash}{SMSOMBWS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Background: In order to improve gene prediction, extrinsic evidence on the
+  gene structure can be collected from various sources of information such as
+  genome-genome comparisons and EST and protein alignments. However, such
+  evidence is often incomplete and usually uncertain. The extrinsic evidence is
+  usually not sufficient to recover the complete gene structure of all genes
+  completely and the available evidence is often unreliable. Therefore
+  extrinsic evidence is most valuable when it is balanced with
+  sequence-intrinsic evidence. Results: We present a fairly general method for
+  integration of external information. Our method is based on the evaluation of
+  hints to potentially protein-coding regions by means of a Generalized Hidden
+  Morkov Model (GHMM) that takes both intrinsic and extrinsic information into
+  account. We used this method to extend the ab initio gene prediction program
+  AUGUSTUS to a versatile tool that we call AUGUSTUS+. In this study, we focus
+  on hints derived from matches to an EST or protein database, but our approach
+  can be used to include arbitrary user-defined hints. Our method is only
+  moderately effected by the length of a database match. Further, it exploits
+  the information that can be derived from the absence of such matches. As a
+  special case, AUGUSTUS+ can predict genes under user-defined constraints,
+  e.g. if the positions of certain exons are known. With hints from EST and
+  protein databases, our new approach was able to predict 89% of the exons in
+  human chromosome 22 correctly. Conclusion: Sensitive probabilistic modeling
+  of extrinsic evidence such as sequence database matches can increase gene
+  prediction accuracy. When a match of a sequence interval to an EST or protein
+  sequence is used it should be treated as compound information rather than as
+  information about individual positions. © 2006 Stanke et al; licensee BioMed
+  Central Ltd.%
+    }
+    \verb{doi}
+    \verb 10.1186/1471-2105-7-62
+    \endverb
+    \field{issn}{14712105}
+    \field{title}{Gene prediction in eukaryotes with a generalized hidden
+  Markov model that uses hints from external sources}
+    \field{volume}{7}
+    \field{journaltitle}{BMC Bioinformatics}
+    \field{month}{02}
+    \field{year}{2006}
+  \endentry
+
+  \entry{Stanke2008}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SM}{%
+         family={Stanke},
+         familyi={S\bibinitperiod},
+         given={Mario},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Diekhans},
+         familyi={D\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Baertsch},
+         familyi={B\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=HD}{%
+         family={Haussler},
+         familyi={H\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SM+1}
+    \strng{fullhash}{SMDMBRHD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Motivation: Computational annotation of protein coding genes in genomic DNA
+  is a widely used and essential tool for analyzing newly sequenced genomes.
+  However, current methods suffer from inaccuracy and do poorly with certain
+  types of genes. Including additional sources of evidence of the existence and
+  structure of genes can improve the quality of gene predictions. For many
+  eukaryotic genomes, expressed sequence tags (ESTs) are available as evidence
+  for genes. Related genomes that have been sequenced, annotated, and aligned
+  to the target genome provide evidence of existence and structure of genes.
+  Results: We incorporate several different evidence sources into the gene
+  finder AUGUSTUS. The sources of evidence are gene and transcript annotations
+  from related species syntenically mapped to the target genome using TRANSMAP,
+  evolutionary conservation of DNA, mRNA and ESTs of the target species, and
+  retroposed genes. The predictions include alternative splice variants where
+  evidence supports it. Using only ESTs we were able to correctly predict at
+  least one splice form exactly correct in 57% of human genes. Also using
+  evidence from other species and human mRNAs, this number rises to 77%.
+  Syntenic mapping is well-suited to annotate genomes closely related to
+  genomes that are already annotated or for which extensive transcript evidence
+  is available. Native cDNA evidence is most helpful when the alignments are
+  used as compound information rather than independent positionwise
+  information. © 2008 The Author(s).%
+    }
+    \verb{doi}
+    \verb 10.1093/bioinformatics/btn013
+    \endverb
+    \field{issn}{13674803}
+    \field{issue}{5}
+    \field{pages}{637\bibrangedash 644}
+    \field{title}{Using native and syntenically mapped cDNA alignments to
+  improve de novo gene finding}
+    \field{volume}{24}
+    \field{journaltitle}{Bioinformatics}
+    \field{month}{01}
+    \field{year}{2008}
+  \endentry
+
+  \entry{Stoletzki2011}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SN}{%
+         family={Stoletzki},
+         familyi={S\bibinitperiod},
+         given={Nina},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=EWA}{%
+         family={Eyre-Walker},
+         familyi={E\bibinithyphendelim W\bibinitperiod},
+         given={Adam},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Mantel-Haenszel test,McDonald-Kreitman test,adaptive evolution,bias
+  of odds ratios,heterogeneity}
+    \strng{namehash}{SNEWA1}
+    \strng{fullhash}{SNEWA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    The McDonald-Kreitman (MK) test is a simple and widely used test of
+  selection in which the numbers of nonsilent and silent substitutions (Dn and
+  Ds) are compared with the numbers of nonsilent and silent polymorphisms (Pn
+  and Ps). The neutrality index (NI = DsPn/DnPs), the odds ratio (OR) of the MK
+  table, measures the direction and degree of departure from neutral evolution.
+  The mean of NI values across genes is often taken to summarize patterns of
+  selection in a species. Here, we show that this leads to statistical bias in
+  both simulated and real data to the extent that species, which show a pattern
+  of adaptive evolution, can apparently be subject to weak purifying selection
+  and vice versa. We show that this bias can be removed by using a variant of
+  the Cochran - Mantel-Haenszel procedure for estimating a weighted average OR.
+  We also show that several point estimators of NI are statistically biased
+  even when cutoff values are employed. We therefore suggest that a new
+  statistic be used to study patterns of selection when data are sparse, the
+  direction of selection: DoS = Dn/(Dn + Ds) - Pn/(Pn + Ps). © 2010 The
+  Author.%
+    }
+    \verb{doi}
+    \verb 10.1093/molbev/msq249
+    \endverb
+    \field{issn}{07374038}
+    \field{issue}{1}
+    \field{pages}{63\bibrangedash 70}
+    \field{title}{Estimation of the neutrality index}
+    \field{volume}{28}
+    \field{journaltitle}{Molecular Biology and Evolution}
+    \field{month}{01}
+    \field{year}{2011}
+  \endentry
+\enddatalist
+\endinput
